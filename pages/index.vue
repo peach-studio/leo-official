@@ -9,7 +9,7 @@
         <div class="container">
           <div class="is-size-1-desktop is-size-2-touch slogan-wrapper">
             <h1>
-              VITE
+              雷鸥
             </h1>
             <h2>{{$t("home.slogan")}}</h2>
           </div>
